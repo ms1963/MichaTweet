@@ -3,7 +3,7 @@ Small App for accessing Twitter
 
 
 This app is just a Web page enabled for mobile apps using jQuery Mobile.
-The Javascript part is used to access Twitter in order to find tweets that contain a particular keyword.
+The Javascript part is used to access Twitter in order to find tweets that contain a particular keyword. In the example code a twitter user is specified in order to find "all" tweets from that user.
 The mobile app presents a list of tweets it found. When the user clicks on an entry the app presents the detailed tweet.
 The sample HTML page integrates the JS code.
 
